@@ -1,0 +1,4 @@
+1) Numpy Library
+2) Python (optional > 3.8) > 3.7
+3) Sklearn Library
+4) Pandas Library
