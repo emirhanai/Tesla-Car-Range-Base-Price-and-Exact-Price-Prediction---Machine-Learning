@@ -32,10 +32,6 @@ LinkedIn : **[https://www.linkedin.com/in/artificialintelligencebulut/][Linkedin
 
 Official Website: **[https://www.emirhanbulut.com.tr][OfficialWebSite]**
 
-[tesla_image]
-
-[tesla_image]: https://i.hizliresim.com/uzq14v9.jpg
-
 [OfficialWebSite]: https://www.emirhanbulut.com.tr
 
 [DataSource]: https://www.solarreviews.com/blog/how-much-do-teslas-electric-vehicles-cost
